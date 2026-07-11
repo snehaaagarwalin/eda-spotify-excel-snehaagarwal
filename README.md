@@ -1,4 +1,4 @@
-# Spotify Music Analysis Dashboard
+# Spotify Music Analysis
 **Dataset:** 1,14,000 Spotify tracks | 125 genres
 **Tool:** MS Excel (Pivot Tables, Pivot Charts, Slicers, Statistical Analysis)
 
